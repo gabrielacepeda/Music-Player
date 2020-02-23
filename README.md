@@ -7,4 +7,4 @@ This app plays music from a small playlist I created using the HTML5 audio API.
 - Progress Bar
 
 # Optimizations
-Currently, the progress bar does not allow you to skip through the song. I'm working through an error to fix this.
+Currently, the progress bar does not allow you to skip through the song in the progress bar. I'm working through an error to fix this.
